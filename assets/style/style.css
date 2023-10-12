@@ -1,0 +1,13 @@
+/* BASIC STYLES HERE */
+#wildPokemon {
+    overflow-y: scroll;
+    max-height: 80vh;
+}
+
+.pokemon-image {
+    height: 38vh;
+    width: 40%;
+    object-fit: cover;
+
+
+}
